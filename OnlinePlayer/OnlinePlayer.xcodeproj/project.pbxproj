@@ -7,29 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		DFA9CB581E1E4C4B009972EC /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DFA9CB571E1E4C4B009972EC /* main.m */; };
-		DFA9CB5B1E1E4C4B009972EC /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = DFA9CB5A1E1E4C4B009972EC /* AppDelegate.m */; };
-		DFA9CB5E1E1E4C4B009972EC /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DFA9CB5D1E1E4C4B009972EC /* ViewController.m */; };
-		DFA9CB611E1E4C4B009972EC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DFA9CB5F1E1E4C4B009972EC /* Main.storyboard */; };
-		DFA9CB631E1E4C4B009972EC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DFA9CB621E1E4C4B009972EC /* Assets.xcassets */; };
-		DFA9CB661E1E4C4B009972EC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DFA9CB641E1E4C4B009972EC /* LaunchScreen.storyboard */; };
+		DFA9CB7B1E1E4DB1009972EC /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DFA9CB7A1E1E4DB1009972EC /* main.m */; };
+		DFA9CB7E1E1E4DB1009972EC /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = DFA9CB7D1E1E4DB1009972EC /* AppDelegate.m */; };
+		DFA9CB811E1E4DB1009972EC /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DFA9CB801E1E4DB1009972EC /* ViewController.m */; };
+		DFA9CB841E1E4DB1009972EC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DFA9CB821E1E4DB1009972EC /* Main.storyboard */; };
+		DFA9CB861E1E4DB1009972EC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DFA9CB851E1E4DB1009972EC /* Assets.xcassets */; };
+		DFA9CB891E1E4DB1009972EC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DFA9CB871E1E4DB1009972EC /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		DFA9CB531E1E4C4B009972EC /* OnlinePlayer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OnlinePlayer.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		DFA9CB571E1E4C4B009972EC /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		DFA9CB591E1E4C4B009972EC /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		DFA9CB5A1E1E4C4B009972EC /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		DFA9CB5C1E1E4C4B009972EC /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		DFA9CB5D1E1E4C4B009972EC /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		DFA9CB601E1E4C4B009972EC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		DFA9CB621E1E4C4B009972EC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		DFA9CB651E1E4C4B009972EC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		DFA9CB671E1E4C4B009972EC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DFA9CB761E1E4DB1009972EC /* OnlinePlayer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OnlinePlayer.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DFA9CB7A1E1E4DB1009972EC /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		DFA9CB7C1E1E4DB1009972EC /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		DFA9CB7D1E1E4DB1009972EC /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		DFA9CB7F1E1E4DB1009972EC /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		DFA9CB801E1E4DB1009972EC /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		DFA9CB831E1E4DB1009972EC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		DFA9CB851E1E4DB1009972EC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		DFA9CB881E1E4DB1009972EC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		DFA9CB8A1E1E4DB2009972EC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		DFA9CB501E1E4C4B009972EC /* Frameworks */ = {
+		DFA9CB731E1E4DB1009972EC /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -39,42 +39,42 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		DFA9CB4A1E1E4C4B009972EC = {
+		DFA9CB6D1E1E4DB1009972EC = {
 			isa = PBXGroup;
 			children = (
-				DFA9CB551E1E4C4B009972EC /* OnlinePlayer */,
-				DFA9CB541E1E4C4B009972EC /* Products */,
+				DFA9CB781E1E4DB1009972EC /* OnlinePlayer */,
+				DFA9CB771E1E4DB1009972EC /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		DFA9CB541E1E4C4B009972EC /* Products */ = {
+		DFA9CB771E1E4DB1009972EC /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				DFA9CB531E1E4C4B009972EC /* OnlinePlayer.app */,
+				DFA9CB761E1E4DB1009972EC /* OnlinePlayer.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		DFA9CB551E1E4C4B009972EC /* OnlinePlayer */ = {
+		DFA9CB781E1E4DB1009972EC /* OnlinePlayer */ = {
 			isa = PBXGroup;
 			children = (
-				DFA9CB591E1E4C4B009972EC /* AppDelegate.h */,
-				DFA9CB5A1E1E4C4B009972EC /* AppDelegate.m */,
-				DFA9CB5C1E1E4C4B009972EC /* ViewController.h */,
-				DFA9CB5D1E1E4C4B009972EC /* ViewController.m */,
-				DFA9CB5F1E1E4C4B009972EC /* Main.storyboard */,
-				DFA9CB621E1E4C4B009972EC /* Assets.xcassets */,
-				DFA9CB641E1E4C4B009972EC /* LaunchScreen.storyboard */,
-				DFA9CB671E1E4C4B009972EC /* Info.plist */,
-				DFA9CB561E1E4C4B009972EC /* Supporting Files */,
+				DFA9CB7C1E1E4DB1009972EC /* AppDelegate.h */,
+				DFA9CB7D1E1E4DB1009972EC /* AppDelegate.m */,
+				DFA9CB7F1E1E4DB1009972EC /* ViewController.h */,
+				DFA9CB801E1E4DB1009972EC /* ViewController.m */,
+				DFA9CB821E1E4DB1009972EC /* Main.storyboard */,
+				DFA9CB851E1E4DB1009972EC /* Assets.xcassets */,
+				DFA9CB871E1E4DB1009972EC /* LaunchScreen.storyboard */,
+				DFA9CB8A1E1E4DB2009972EC /* Info.plist */,
+				DFA9CB791E1E4DB1009972EC /* Supporting Files */,
 			);
 			path = OnlinePlayer;
 			sourceTree = "<group>";
 		};
-		DFA9CB561E1E4C4B009972EC /* Supporting Files */ = {
+		DFA9CB791E1E4DB1009972EC /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				DFA9CB571E1E4C4B009972EC /* main.m */,
+				DFA9CB7A1E1E4DB1009972EC /* main.m */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -82,13 +82,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		DFA9CB521E1E4C4B009972EC /* OnlinePlayer */ = {
+		DFA9CB751E1E4DB1009972EC /* OnlinePlayer */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DFA9CB6A1E1E4C4B009972EC /* Build configuration list for PBXNativeTarget "OnlinePlayer" */;
+			buildConfigurationList = DFA9CB8D1E1E4DB2009972EC /* Build configuration list for PBXNativeTarget "OnlinePlayer" */;
 			buildPhases = (
-				DFA9CB4F1E1E4C4B009972EC /* Sources */,
-				DFA9CB501E1E4C4B009972EC /* Frameworks */,
-				DFA9CB511E1E4C4B009972EC /* Resources */,
+				DFA9CB721E1E4DB1009972EC /* Sources */,
+				DFA9CB731E1E4DB1009972EC /* Frameworks */,
+				DFA9CB741E1E4DB1009972EC /* Resources */,
 			);
 			buildRules = (
 			);
@@ -96,25 +96,25 @@
 			);
 			name = OnlinePlayer;
 			productName = OnlinePlayer;
-			productReference = DFA9CB531E1E4C4B009972EC /* OnlinePlayer.app */;
+			productReference = DFA9CB761E1E4DB1009972EC /* OnlinePlayer.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		DFA9CB4B1E1E4C4B009972EC /* Project object */ = {
+		DFA9CB6E1E1E4DB1009972EC /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0800;
 				ORGANIZATIONNAME = vochi;
 				TargetAttributes = {
-					DFA9CB521E1E4C4B009972EC = {
+					DFA9CB751E1E4DB1009972EC = {
 						CreatedOnToolsVersion = 8.0;
 						ProvisioningStyle = Automatic;
 					};
 				};
 			};
-			buildConfigurationList = DFA9CB4E1E1E4C4B009972EC /* Build configuration list for PBXProject "OnlinePlayer" */;
+			buildConfigurationList = DFA9CB711E1E4DB1009972EC /* Build configuration list for PBXProject "OnlinePlayer" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -122,55 +122,55 @@
 				en,
 				Base,
 			);
-			mainGroup = DFA9CB4A1E1E4C4B009972EC;
-			productRefGroup = DFA9CB541E1E4C4B009972EC /* Products */;
+			mainGroup = DFA9CB6D1E1E4DB1009972EC;
+			productRefGroup = DFA9CB771E1E4DB1009972EC /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				DFA9CB521E1E4C4B009972EC /* OnlinePlayer */,
+				DFA9CB751E1E4DB1009972EC /* OnlinePlayer */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		DFA9CB511E1E4C4B009972EC /* Resources */ = {
+		DFA9CB741E1E4DB1009972EC /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DFA9CB661E1E4C4B009972EC /* LaunchScreen.storyboard in Resources */,
-				DFA9CB631E1E4C4B009972EC /* Assets.xcassets in Resources */,
-				DFA9CB611E1E4C4B009972EC /* Main.storyboard in Resources */,
+				DFA9CB891E1E4DB1009972EC /* LaunchScreen.storyboard in Resources */,
+				DFA9CB861E1E4DB1009972EC /* Assets.xcassets in Resources */,
+				DFA9CB841E1E4DB1009972EC /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		DFA9CB4F1E1E4C4B009972EC /* Sources */ = {
+		DFA9CB721E1E4DB1009972EC /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DFA9CB5E1E1E4C4B009972EC /* ViewController.m in Sources */,
-				DFA9CB5B1E1E4C4B009972EC /* AppDelegate.m in Sources */,
-				DFA9CB581E1E4C4B009972EC /* main.m in Sources */,
+				DFA9CB811E1E4DB1009972EC /* ViewController.m in Sources */,
+				DFA9CB7E1E1E4DB1009972EC /* AppDelegate.m in Sources */,
+				DFA9CB7B1E1E4DB1009972EC /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		DFA9CB5F1E1E4C4B009972EC /* Main.storyboard */ = {
+		DFA9CB821E1E4DB1009972EC /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DFA9CB601E1E4C4B009972EC /* Base */,
+				DFA9CB831E1E4DB1009972EC /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		DFA9CB641E1E4C4B009972EC /* LaunchScreen.storyboard */ = {
+		DFA9CB871E1E4DB1009972EC /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DFA9CB651E1E4C4B009972EC /* Base */,
+				DFA9CB881E1E4DB1009972EC /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -178,7 +178,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		DFA9CB681E1E4C4B009972EC /* Debug */ = {
+		DFA9CB8B1E1E4DB2009972EC /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -225,7 +225,7 @@
 			};
 			name = Debug;
 		};
-		DFA9CB691E1E4C4B009972EC /* Release */ = {
+		DFA9CB8C1E1E4DB2009972EC /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -266,7 +266,7 @@
 			};
 			name = Release;
 		};
-		DFA9CB6B1E1E4C4B009972EC /* Debug */ = {
+		DFA9CB8E1E1E4DB2009972EC /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -277,7 +277,7 @@
 			};
 			name = Debug;
 		};
-		DFA9CB6C1E1E4C4B009972EC /* Release */ = {
+		DFA9CB8F1E1E4DB2009972EC /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -291,24 +291,24 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		DFA9CB4E1E1E4C4B009972EC /* Build configuration list for PBXProject "OnlinePlayer" */ = {
+		DFA9CB711E1E4DB1009972EC /* Build configuration list for PBXProject "OnlinePlayer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				DFA9CB681E1E4C4B009972EC /* Debug */,
-				DFA9CB691E1E4C4B009972EC /* Release */,
+				DFA9CB8B1E1E4DB2009972EC /* Debug */,
+				DFA9CB8C1E1E4DB2009972EC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DFA9CB6A1E1E4C4B009972EC /* Build configuration list for PBXNativeTarget "OnlinePlayer" */ = {
+		DFA9CB8D1E1E4DB2009972EC /* Build configuration list for PBXNativeTarget "OnlinePlayer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				DFA9CB6B1E1E4C4B009972EC /* Debug */,
-				DFA9CB6C1E1E4C4B009972EC /* Release */,
+				DFA9CB8E1E1E4DB2009972EC /* Debug */,
+				DFA9CB8F1E1E4DB2009972EC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = DFA9CB4B1E1E4C4B009972EC /* Project object */;
+	rootObject = DFA9CB6E1E1E4DB1009972EC /* Project object */;
 }

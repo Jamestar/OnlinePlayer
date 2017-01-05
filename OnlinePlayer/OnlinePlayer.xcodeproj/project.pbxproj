@@ -13,6 +13,8 @@
 		DFA9CB841E1E4DB1009972EC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DFA9CB821E1E4DB1009972EC /* Main.storyboard */; };
 		DFA9CB861E1E4DB1009972EC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DFA9CB851E1E4DB1009972EC /* Assets.xcassets */; };
 		DFA9CB891E1E4DB1009972EC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DFA9CB871E1E4DB1009972EC /* LaunchScreen.storyboard */; };
+		DFA9CB921E1E4F76009972EC /* MyPlayTool.m in Sources */ = {isa = PBXBuildFile; fileRef = DFA9CB911E1E4F76009972EC /* MyPlayTool.m */; };
+		DFA9CB941E1E4F84009972EC /* 小苹果.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DFA9CB931E1E4F84009972EC /* 小苹果.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,9 @@
 		DFA9CB851E1E4DB1009972EC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DFA9CB881E1E4DB1009972EC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DFA9CB8A1E1E4DB2009972EC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DFA9CB901E1E4F76009972EC /* MyPlayTool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyPlayTool.h; sourceTree = "<group>"; };
+		DFA9CB911E1E4F76009972EC /* MyPlayTool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyPlayTool.m; sourceTree = "<group>"; };
+		DFA9CB931E1E4F84009972EC /* 小苹果.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "小苹果.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,10 +63,13 @@
 		DFA9CB781E1E4DB1009972EC /* OnlinePlayer */ = {
 			isa = PBXGroup;
 			children = (
+				DFA9CB931E1E4F84009972EC /* 小苹果.mp3 */,
 				DFA9CB7C1E1E4DB1009972EC /* AppDelegate.h */,
 				DFA9CB7D1E1E4DB1009972EC /* AppDelegate.m */,
 				DFA9CB7F1E1E4DB1009972EC /* ViewController.h */,
 				DFA9CB801E1E4DB1009972EC /* ViewController.m */,
+				DFA9CB901E1E4F76009972EC /* MyPlayTool.h */,
+				DFA9CB911E1E4F76009972EC /* MyPlayTool.m */,
 				DFA9CB821E1E4DB1009972EC /* Main.storyboard */,
 				DFA9CB851E1E4DB1009972EC /* Assets.xcassets */,
 				DFA9CB871E1E4DB1009972EC /* LaunchScreen.storyboard */,
@@ -138,6 +146,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DFA9CB891E1E4DB1009972EC /* LaunchScreen.storyboard in Resources */,
+				DFA9CB941E1E4F84009972EC /* 小苹果.mp3 in Resources */,
 				DFA9CB861E1E4DB1009972EC /* Assets.xcassets in Resources */,
 				DFA9CB841E1E4DB1009972EC /* Main.storyboard in Resources */,
 			);
@@ -151,6 +160,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DFA9CB811E1E4DB1009972EC /* ViewController.m in Sources */,
+				DFA9CB921E1E4F76009972EC /* MyPlayTool.m in Sources */,
 				DFA9CB7E1E1E4DB1009972EC /* AppDelegate.m in Sources */,
 				DFA9CB7B1E1E4DB1009972EC /* main.m in Sources */,
 			);
